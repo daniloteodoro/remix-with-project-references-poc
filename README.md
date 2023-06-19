@@ -1,3 +1,10 @@
+Quick POC that:
+ * Has 2 projects
+ * Both use Remix
+ * Typescript project reference is setup
+ * Child project depends on, and uses components from the Parent project
+
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
